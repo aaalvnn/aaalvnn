@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there, I'm Eddie 👋
 
-<!--
-**aaalvnn/aaalvnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Fullstack Developer ▪ AI Integrations ▪ Crypto Tools ▪ DevOps**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 About Me
+
+- 💡 Full-stack developer focused on building scalable and production-ready applications  
+- 💻 Working with **Angular, React** on the frontend and **NestJS, Node.js, PostgreSQL, Firebase, Docker,** on the backend  
+- 🔧 Experienced with **AWS, Kubernetes, Keycloak, SMTP**  
+- 🌱 Currently improving my backend skillset and learning **Go**  
+- 🔐 Also exploring blockchain development  
+- 🤝 Open to collaboration on real-world and open-source projects  
+
+---
+
+### 💻 Tech Stack & Tools
+
+![Tech Stack](https://skillicons.dev/icons?i=python,js,react,nodejs,ts,nestjs,git,docker,postgres,aws)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%"/>
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:eduardgusak552@gmail.com)
+
+---
+
+⚡ *"Code. Create. Innovate."*
