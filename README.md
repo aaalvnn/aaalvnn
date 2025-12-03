@@ -9,7 +9,6 @@
 - 💡 Full-stack developer focused on building scalable and production-ready applications  
 - 💻 Working with **Angular, React** on the frontend and **NestJS, Node.js, PostgreSQL, Firebase, Docker,** on the backend  
 - 🔧 Experienced with **AWS, Kubernetes, Keycloak, SMTP**  
-- 🌱 Currently improving my backend skillset and learning **Go**  
 - 🔐 Also exploring blockchain development  
 - 🤝 Open to collaboration on real-world and open-source projects  
 
